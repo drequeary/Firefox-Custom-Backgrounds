@@ -10,5 +10,5 @@ video link coming soon.
 ![How To Set Live Wallpaper In Firefox](img/thumbnail2.jpg)
 video link coming soon.
 
-### Vifpics
+# Vifpics
 You can use my program [Vifpics](https://github.com/drequeary/Vifpics-Light) to turn video clips into high quality animated images to use as live wallpaper.
